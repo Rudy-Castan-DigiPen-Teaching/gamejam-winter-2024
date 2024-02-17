@@ -26,6 +26,20 @@ Day 2: Saturday
 * 14:00 - 15:00 Play each others games
 * 15:00 - 16:00 Clean up and close
 
+## Submission Requirements
+
+Submissions must contain:
+
+1. Compressed archive of a runnable executable
+2. Screenshot of Game or Image to represent your game
+3. ReadMe file that defines
+    - Names of team members
+    - Bried Intro to Game
+    - How to interact with the Game
+    - (optional) Describe how the game reflects the theme
+
+You can submit these directly to Prof Rudy Castan or make a pull request that addes the submission in the `submissions` folder
+
 ## Submitted Games
 
 submitted games will go here
