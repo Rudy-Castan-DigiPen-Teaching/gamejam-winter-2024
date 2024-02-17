@@ -1,5 +1,7 @@
 # DigiPen Korea Gamejam Winter 2024
 
+[TOC]
+
 ## Theme
 
 > One Room
@@ -70,4 +72,36 @@ Also, the Sun is smiling, and some of U.R.U.K's voices were recorded by me.
 Download Windows Version here : [Super_U.R.U.K_One_Room_Rampage.7z](submissions/Super_U.R.U.K_One_Room_Rampage/Super_U.R.U.K_One_Room_Rampage.7z)
 
 Source Code on GitHub : https://github.com/ktrack723/One-Room
+
+
+### Smile, Programmer!
+
+1. Names of team members
+    Haneul Lee, Yeaseul Lim, Junhyeong Kim
+
+2. Brief Intro to Game
+    As a topic of this GameJam(One room), we decided to focus on life of programmer who works in the small house with only one room.
+    In this game, players are going to be a poor programmer who works from home, and who got the very good works that can earn big money.
+    However, it is unavailable to do with his poor machine, especially lack of monitors!
+    So he work as hard as possible to buy monitor and to finish the work he got. He need to eat, drink, rest, and some natural thing :)
+    Player have to make these "health points" to appropriate level to survive(which means, to work) and if this ratio got declined,
+    he got tired and show us his lack of performance of work.
+    So player have to take care about these things. Also, to get money easier, there are some furnitures that can inclined the performance
+    of this tiny poor programmer. Player can buy the furniture to get more money!
+    And to finish the BIG job he have to do, player have to manually play the simple rhythm games to go to next stage. Of course, we need
+    many monitors too! If programmer finished the last rhythm game, the full game ended with big smile face in the all monitors that
+    player must buy to clear the game.
+
+3. How to interact with the Game
+    In main menu, you can easily get into the game with "enter" or to exit with "esc" keyboard key. And you can click the mouse to get
+    access the phone UI to buy something, and besides that, almost everything are works with arrow keyboard keys, right shift key, enter or spacebar.
+    Player have to maintain the characters status, and also player have to clear the rhythm game to complete the game.
+
+4. Describe how the game reflects the theme
+    In this game, programmer's home is one room. So we want to make the game with life of programmer, some simulations, little bit hands-free.
+    We try to fill up the small one room with the furnitures that player can buy in games. And I think we did pretty good job so far! :) 
+
+![](submissions/SmileProgammer/FirstImageScreenshot.png) ![](submissions/SmileProgammer/MainMenuScreenshot.png) ![](submissions/SmileProgammer/MonitorJobScreenshot.png)
+
+Download Windows Version here : [SmileProgrammer.7z](submissions/SmileProgammer/SmileProgrammer.7z)
 
