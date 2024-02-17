@@ -105,3 +105,33 @@ Source Code on GitHub : https://github.com/ktrack723/One-Room
 
 Download Windows Version here : [SmileProgrammer.7z](submissions/SmileProgammer/SmileProgrammer.7z)
 
+### Dice Maze
+
+- Game name : Dicemaze
+
+- Team members :
+    - Huiuk Jang
+    - Seohyeon Min
+    - Hyeoenseong Bae
+    - Jaejin Chae
+    - Dohyung Kwon
+
+- game intro : In this game you will encounter 4 maps. But not one by one. Maze will keep changing the place you're at. Walls and floor you are stepping on won't be same as 30 second before. So find the way out, remember the how it was, and be lucky.
+
+##### How to play
+
+###### arrow keys
+Player can move with keyboard arrow keys.
+
+###### space key
+Players can interaction using the space key.
+
+##### Theme
+Each map is one side of the dice. Changing maps are caused by dice being rolled. As player is inside the dice it can be considered as one room.
+
+#### Screenshots
+
+![](submissions/DiceMaze/dicemaze01.png) ![](submissions/DiceMaze/dicemaze02.png) ![](submissions/DiceMaze/dicemaze03.png) ![](submissions/DiceMaze/dicemaze04.png) ![](submissions/DiceMaze/dicemaze05.png)
+
+Download Windows Version here : [DiceMaze.7z](submissions,DiceMaze/DiceMaze.7z)
+
