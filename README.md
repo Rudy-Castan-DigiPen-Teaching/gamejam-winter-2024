@@ -133,5 +133,5 @@ Each map is one side of the dice. Changing maps are caused by dice being rolled.
 
 ![](submissions/DiceMaze/dicemaze01.png) ![](submissions/DiceMaze/dicemaze02.png) ![](submissions/DiceMaze/dicemaze03.png) ![](submissions/DiceMaze/dicemaze04.png) ![](submissions/DiceMaze/dicemaze05.png)
 
-Download Windows Version here : [DiceMaze.7z](submissions,DiceMaze/DiceMaze.7z)
+Download Windows Version here : [DiceMaze.7z](submissions/DiceMaze/DiceMaze.7z)
 
