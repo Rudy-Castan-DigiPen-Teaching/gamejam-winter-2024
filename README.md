@@ -101,7 +101,7 @@ Source Code on GitHub : https://github.com/ktrack723/One-Room
     In this game, programmer's home is one room. So we want to make the game with life of programmer, some simulations, little bit hands-free.
     We try to fill up the small one room with the furnitures that player can buy in games. And I think we did pretty good job so far! :) 
 
-![](submissions/SmileProgammer/FirstImageScreenshot.png) ![](submissions/SmileProgammer/MainMenuScreenshot.png) ![](submissions/SmileProgammer/MonitorJobScreenshot.png)
+![](submissions/SmileProgammer/FirstImageScreenshot.png) ![](submissions/SmileProgammer/MainMenuScreenshot.png) ![](submissions/SmileProgammer/MonitorJobScreenshot.png) ![](submissions/SmileProgammer/image.png)
 
 Download Windows Version here : [SmileProgrammer.7z](submissions/SmileProgammer/SmileProgrammer.7z)
 
