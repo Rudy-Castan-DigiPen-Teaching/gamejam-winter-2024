@@ -42,5 +42,32 @@ You can submit these directly to Prof Rudy Castan or make a pull request that ad
 
 ## Submitted Games
 
-submitted games will go here
+### Super U.R.U.K "One Room" Rampage
+
+~ Art, Programming, Sound Design, etc ~
+
+    SeungGeon Kim
+
+~ The Story ~
+
+    One day, a giant fire breathing fish, U.R.U.K, went to a contemporary art exhibition and was moved deeply by the paintings.
+He was moved so deeply that he decided to destroy all rooms of some buildings in town... Just leaving a single room.
+However, since his fireball was coded to only follow a living human, you, a living human, will help him tidy up the buildings,
+supporting U.R.U.K's first bold step as a contemporary artist.
+ 
+~ Controls ~
+
+    WASD to move
+    SPACE to dash
+
+
+
+All the rooms get blown up except for a single room... So "One Room" it is!
+Also, the Sun is smiling, and some of U.R.U.K's voices were recorded by me.
+
+![](submissions/Super_U.R.U.K_One_Room_Rampage/Screenshot_1.png) ![](submissions/Super_U.R.U.K_One_Room_Rampage/Screenshot_2.png) ![](submissions/Super_U.R.U.K_One_Room_Rampage/Screenshot_3.png)
+
+Download Windows Version here : [Super_U.R.U.K_One_Room_Rampage.7z](submissions/Super_U.R.U.K_One_Room_Rampage/Super_U.R.U.K_One_Room_Rampage.7z)
+
+Source Code on GitHub : https://github.com/ktrack723/One-Room
 
