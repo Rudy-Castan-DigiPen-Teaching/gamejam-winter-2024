@@ -1,7 +1,5 @@
 # DigiPen Korea Gamejam Winter 2024
 
-[TOC]
-
 ## Theme
 
 > One Room
