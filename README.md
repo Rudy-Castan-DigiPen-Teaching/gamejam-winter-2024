@@ -44,21 +44,23 @@ You can submit these directly to Prof Rudy Castan or make a pull request that ad
 
 ### Super U.R.U.K "One Room" Rampage
 
+![Top 3](top3.jpg)
+
 ~ Art, Programming, Sound Design, etc ~
 
-    SeungGeon Kim
+**SeungGeon Kim**
 
 ~ The Story ~
 
-    One day, a giant fire breathing fish, U.R.U.K, went to a contemporary art exhibition and was moved deeply by the paintings.
+One day, a giant fire breathing fish, U.R.U.K, went to a contemporary art exhibition and was moved deeply by the paintings.
 He was moved so deeply that he decided to destroy all rooms of some buildings in town... Just leaving a single room.
 However, since his fireball was coded to only follow a living human, you, a living human, will help him tidy up the buildings,
 supporting U.R.U.K's first bold step as a contemporary artist.
  
 ~ Controls ~
 
-    WASD to move
-    SPACE to dash
+WASD to move
+SPACE to dash
 
 
 
@@ -67,15 +69,18 @@ Also, the Sun is smiling, and some of U.R.U.K's voices were recorded by me.
 
 ![](submissions/Super_U.R.U.K_One_Room_Rampage/Screenshot_1.png) ![](submissions/Super_U.R.U.K_One_Room_Rampage/Screenshot_2.png) ![](submissions/Super_U.R.U.K_One_Room_Rampage/Screenshot_3.png)
 
-Download Windows Version here : [Super_U.R.U.K_One_Room_Rampage.7z](submissions/Super_U.R.U.K_One_Room_Rampage/Super_U.R.U.K_One_Room_Rampage.7z)
 
-Source Code on GitHub : https://github.com/ktrack723/One-Room
+Download Windows Version here : **[Super_U.R.U.K_One_Room_Rampage.7z](submissions/Super_U.R.U.K_One_Room_Rampage/Super_U.R.U.K_One_Room_Rampage.7z)**
+
+Source Code on GitHub : **https://github.com/ktrack723/One-Room**
 
 
 ### Smile, Programmer!
 
+![Top 3](top3.jpg)
+
 1. Names of team members
-    Haneul Lee, Yeaseul Lim, Junhyeong Kim
+**Haneul Lee, Yeaseul Lim, Junhyeong Kim**
 
 2. Brief Intro to Game
     As a topic of this GameJam(One room), we decided to focus on life of programmer who works in the small house with only one room.
@@ -101,18 +106,20 @@ Source Code on GitHub : https://github.com/ktrack723/One-Room
 
 ![](submissions/SmileProgammer/FirstImageScreenshot.png) ![](submissions/SmileProgammer/MainMenuScreenshot.png) ![](submissions/SmileProgammer/MonitorJobScreenshot.png) ![](submissions/SmileProgammer/image.png)
 
-Download Windows Version here : [SmileProgrammer.7z](submissions/SmileProgammer/SmileProgrammer.7z)
+Download Windows Version here : **[SmileProgrammer.7z](submissions/SmileProgammer/SmileProgrammer.7z)**
 
 ### Dice Maze
+
+![Top 3](top3.jpg)
 
 - Game name : Dicemaze
 
 - Team members :
-    - Huiuk Jang
-    - Seohyeon Min
-    - Hyeoenseong Bae
-    - Jaejin Chae
-    - Dohyung Kwon
+    - **Huiuk Jang**
+    - **Seohyeon Min**
+    - **Hyeoenseong Bae**
+    - **Jaejin Chae**
+    - **Dohyung Kwon**
 
 - game intro : In this game you will encounter 4 maps. But not one by one. Maze will keep changing the place you're at. Walls and floor you are stepping on won't be same as 30 second before. So find the way out, remember the how it was, and be lucky.
 
@@ -131,5 +138,5 @@ Each map is one side of the dice. Changing maps are caused by dice being rolled.
 
 ![](submissions/DiceMaze/dicemaze01.png) ![](submissions/DiceMaze/dicemaze02.png) ![](submissions/DiceMaze/dicemaze03.png) ![](submissions/DiceMaze/dicemaze04.png) ![](submissions/DiceMaze/dicemaze05.png)
 
-Download Windows Version here : [DiceMaze.7z](submissions/DiceMaze/DiceMaze.7z)
+Download Windows Version here : **[DiceMaze.7z](submissions/DiceMaze/DiceMaze.7z)**
 
